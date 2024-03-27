@@ -1,4 +1,4 @@
-### Hi, don't cut me ;)
+### Hi, don't copy me ;)
 
 <!--
 **Johnzitos/Johnzitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
