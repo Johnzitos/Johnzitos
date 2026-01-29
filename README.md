@@ -1,17 +1,8 @@
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0ZDMyMWo4Z29qY2lmbGplZTN0eThuN3J5OTFkNTgzNmdsbDF5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jh3rt2jAi9KMPSh9W/giphy.gif" width="40" style="vertical-align: bottom;"> Hi bro, have you ever heard of coherence? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0ZDMyMWo4Z29qY2lmbGplZTN0eThuN3J5OTFkNTgzNmdsbDF5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jh3rt2jAi9KMPSh9W/giphy.gif" width="40" style="vertical-align: bottom;"></h1>
 
-<h1 align="center">
-  </a>  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>Hi bro, have you ever heard of coherence?</a>  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
-</h1>
-
-<h1 align="center">
-  <a href="https://docs.github.com/en/developers">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </a>
-  Hi bro, have you ever heard of coherence?
-  <a href="https://docs.github.com/en/developers">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </a>
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1TVI9svk74jPB7E/giphy.gif" width="500" alt="Tech Chip" />
+</div>
 
 ### Contact
 
@@ -49,10 +40,11 @@
 ---
 
 ### Operacional Systems 
-<a href="https://www.linux.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" style="margin-right: 10px;"/>
-</a>
-
-<a href="https://www.microsoft.com/windows" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" alt="Windows"/>
-</a>
+<div align="center">
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" alt="Linux" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="100" alt="Windows"/>
+  </a>
+</div>
