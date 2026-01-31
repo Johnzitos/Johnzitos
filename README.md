@@ -1,13 +1,24 @@
 <h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0ZDMyMWo4Z29qY2lmbGplZTN0eThuN3J5OTFkNTgzNmdsbDF5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jh3rt2jAi9KMPSh9W/giphy.gif" width="40" style="vertical-align: bottom;"> Hi bro, have you ever heard of coherence? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0ZDMyMWo4Z29qY2lmbGplZTN0eThuN3J5OTFkNTgzNmdsbDF5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jh3rt2jAi9KMPSh9W/giphy.gif" width="40" style="vertical-align: bottom;"></h1>
 
+<h3 align ="center">
+Estudante de Ciência da Computação focado em Blue Team. Utilizo Wazuh e Python para automação de segurança, aplicando conhecimentos ofensivos para fortalecer a defesa de infraestruturas.
+</h3>
+
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrejFhbzR3YTBjc2U4ZXN5NW5jaGdzbDh6cTFvdDdwcGF3NHpvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10RgZyfaX0HBSg/giphy.gif" width="150" alt="Tech Chip" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhuZmt6OWtwMXplOXVvNDU5eHlvcDljNDY1dzZvYjNkamt4cXkwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif" width="300" alt="Tech Chip" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrejFhbzR3YTBjc2U4ZXN5NW5jaGdzbDh6cTFvdDdwcGF3NHpvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10RgZyfaX0HBSg/giphy.gif" width="150" alt="Tech Chip" />
+
 </div>
+
+
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8yNGp1d2x4aGxwYTVpODg5cHdrZ3RwMzM2NGRhNjh4d2xvZGx1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FlkX260owArFm4JrFY/giphy.gif" width="50" style="vertical-align: middle;"> 
   Contact
 </h2>
+
+
 
 <div align="center">
   
@@ -33,15 +44,16 @@
 </h2>
 
 <div style="display: inline_block" align = "center">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
 </div>
+
 
 ---
 
@@ -51,6 +63,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ4bzd0cTB3Yzk3cjFqeWUzb3oyc2Z3ZGduazB2dTd2NXd2Nnp4dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xYPdnwsRPZDhCxXvOi/giphy.gif" width="35" style="vertical-align: middle;"> 
   Operational Systems
 </h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge"/>
+  
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge"/>
+  
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux badge"/>
+</div>
 
 <div align="center">
   <a href="https://www.linux.org" target="_blank">
