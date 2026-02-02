@@ -1,21 +1,25 @@
 <h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0ZDMyMWo4Z29qY2lmbGplZTN0eThuN3J5OTFkNTgzNmdsbDF5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jh3rt2jAi9KMPSh9W/giphy.gif" width="40" style="vertical-align: bottom;"> Hi bro, have you ever heard of coherence? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0ZDMyMWo4Z29qY2lmbGplZTN0eThuN3J5OTFkNTgzNmdsbDF5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5jh3rt2jAi9KMPSh9W/giphy.gif" width="40" style="vertical-align: bottom;"></h1>
 
 <h3 align ="center">
-Estudante de Ciência da Computação focado em Blue Team. Utilizo Wazuh e Python para automação de segurança, aplicando conhecimentos ofensivos para fortalecer a defesa de infraestruturas.
+🔵Estudante de Ciência da Computação focado em Blue Team. Utilizo Wazuh e Python para automação de segurança, aplicando conhecimentos ofensivos para fortalecer a defesa de infraestruturas🔵.
 </h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrejFhbzR3YTBjc2U4ZXN5NW5jaGdzbDh6cTFvdDdwcGF3NHpvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10RgZyfaX0HBSg/giphy.gif" width="150" alt="Tech Chip" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhuZmt6OWtwMXplOXVvNDU5eHlvcDljNDY1dzZvYjNkamt4cXkwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif" width="300" alt="Tech Chip" />
+<img
+  alt="GitHub Stats"
+  src="https://pixel-profile.vercel.app/api/github-stats?username=Johnzitos&screen_effect=false&theme=fuji&hide=avatar&dithering=true"
+width="700"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrejFhbzR3YTBjc2U4ZXN5NW5jaGdzbDh6cTFvdDdwcGF3NHpvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10RgZyfaX0HBSg/giphy.gif" width="150" alt="Tech Chip" />
-
 </div>
+
+
 
 
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8yNGp1d2x4aGxwYTVpODg5cHdrZ3RwMzM2NGRhNjh4d2xvZGx1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FlkX260owArFm4JrFY/giphy.gif" width="50" style="vertical-align: middle;"> 
-  Contact
+  Contact_____________________________________________________________________________________
 </h2>
 
 
@@ -36,11 +40,11 @@ Estudante de Ciência da Computação focado em Blue Team. Utilizo Wazuh e Pytho
 
 </div>
 
----
+
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VicjBxOXk4NTUzOGk3dDF1cHcxaDJzcGd2NTR5dHFhNm00aGp0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif" width="50" style="vertical-align: middle;"> 
-  Languages
+  Languages_________________________________________________________________________________
 </h2>
 
 <div style="display: inline_block" align = "center">
@@ -55,26 +59,18 @@ Estudante de Ciência da Computação focado em Blue Team. Utilizo Wazuh e Pytho
 </div>
 
 
----
+
 
 
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ4bzd0cTB3Yzk3cjFqeWUzb3oyc2Z3ZGduazB2dTd2NXd2Nnp4dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xYPdnwsRPZDhCxXvOi/giphy.gif" width="35" style="vertical-align: middle;"> 
-  Operational Systems
+  Operational Systems_______________________________________________________________________
 </h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge"/>
-  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge"/>
-  
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux badge"/>
-</div>
-
-<div align="center">
   <a href="https://www.linux.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" alt="Linux" style="margin-right: 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="90" alt="Linux" style="margin-right: 15px;"/>
   </a>
   
   <a href="https://www.microsoft.com/windows" target="_blank">
@@ -84,3 +80,50 @@ Estudante de Ciência da Computação focado em Blue Team. Utilizo Wazuh e Pytho
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="100" alt="Kali Linux" style="margin-right: 15px;"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge"/>
+  
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge"/>
+  
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux badge"/>
+</div>
+
+
+<h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXp5YnFpZnIxZDhnbDBodmZsOWtqYjl2NXp6NmZpaXYzbzJsa2FveiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RIvpX3aw3WPFUingEG/giphy.gif" width="35" style="vertical-align: middle;"> 
+  Main Projects_______________________________________________________________________________
+</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhuZmt6OWtwMXplOXVvNDU5eHlvcDljNDY1dzZvYjNkamt4cXkwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5Akl9i8YiMbl5RFvGO/giphy.gif"
+        width="250"
+        alt="Tech Chip"
+      />
+    </td>
+    <td align="left">
+      <a href="https://github.com/Johnzitos/Projetos-Seguranca">
+        <img src="https://img.shields.io/badge/%20Projetos%20de%20Segurança-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Johnzitos/Wazuh-Tutorials">
+        <img src="https://img.shields.io/badge/%20Wazuh%20Tutorials-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<br><br><br>
+<p align="center"><i>"Be Safe"</i></p>
+
+
+
+
+
+
+
+
