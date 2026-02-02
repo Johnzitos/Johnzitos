@@ -19,9 +19,11 @@ width="500"/>
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8yNGp1d2x4aGxwYTVpODg5cHdrZ3RwMzM2NGRhNjh4d2xvZGx1bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FlkX260owArFm4JrFY/giphy.gif" width="50" style="vertical-align: middle;"> 
-  Contact_____________________________________________________________________________________
+  Contact
 </h2>
 
+
+---
 
 
 <div align="center">
@@ -44,8 +46,12 @@ width="500"/>
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VicjBxOXk4NTUzOGk3dDF1cHcxaDJzcGd2NTR5dHFhNm00aGp0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif" width="50" style="vertical-align: middle;"> 
-  Languages_________________________________________________________________________________
+  Languages
 </h2>
+
+
+---
+
 
 <div style="display: inline_block" align = "center">
   <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
@@ -61,12 +67,14 @@ width="500"/>
 
 
 
-
-
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ4bzd0cTB3Yzk3cjFqeWUzb3oyc2Z3ZGduazB2dTd2NXd2Nnp4dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xYPdnwsRPZDhCxXvOi/giphy.gif" width="35" style="vertical-align: middle;"> 
-  Operational Systems_______________________________________________________________________
+  Operational Systems
 </h2>
+
+
+---
+
 
 <div align="center">
   <a href="https://www.linux.org" target="_blank">
@@ -92,8 +100,11 @@ width="500"/>
 
 <h2>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXp5YnFpZnIxZDhnbDBodmZsOWtqYjl2NXp6NmZpaXYzbzJsa2FveiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RIvpX3aw3WPFUingEG/giphy.gif" width="35" style="vertical-align: middle;"> 
-  Main Projects_______________________________________________________________________________
+  Main Projects
 </h2>
+
+---
+
 
 <table align="center">
   <tr>
