@@ -9,7 +9,7 @@
 <img
   alt="GitHub Stats"
   src="https://pixel-profile.vercel.app/api/github-stats?username=Johnzitos&screen_effect=false&theme=fuji&hide=avatar&dithering=true"
-width="700"/>
+width="500"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNrejFhbzR3YTBjc2U4ZXN5NW5jaGdzbDh6cTFvdDdwcGF3NHpvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10RgZyfaX0HBSg/giphy.gif" width="90" alt="Tech Chip" />
 </div>
 
