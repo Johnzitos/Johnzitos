@@ -38,6 +38,9 @@ width="700"/>
 <a href="mailto:joaolima241106@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://tryhackme.com/p/johnzitos" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-johnzitos-000000?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe Profile">
+</a>
 
 </div>
 
